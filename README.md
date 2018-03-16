@@ -1,2 +1,2 @@
 # Madeline-Proto-Command
-Comandi utilizzabili per gli userbot telegram creati con MadelineProto.
+Questo è uno file contente la maggior parte dei comandi che si possono usare in un userbot Telegram creato con madeline proto

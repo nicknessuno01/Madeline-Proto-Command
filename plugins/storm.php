@@ -1,3 +1,4 @@
+<?php
 // flodda un gruppo
 
 // >flood n°Messaggi messaggio

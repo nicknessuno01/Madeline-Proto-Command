@@ -1,3 +1,4 @@
+<?php
 // ESCI DAL GRUPPO IN CUI HAI SCRITTO IL MESSAGGIO
 
 if (0 === strpos($msg, '>leave') and in_array($userID, $admin))
